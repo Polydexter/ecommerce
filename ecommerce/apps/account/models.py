@@ -75,7 +75,7 @@ class Customer(AbstractBaseUser, PermissionsMixin):
         send_mail(
             subject,
             message,
-            "admin@bookstore.com",
+            "verevkin.django@gmail.com",
             [self.email],
             fail_silently=False,
         )
