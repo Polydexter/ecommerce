@@ -1,0 +1,7 @@
+Business
+email: sb-9dw8y15107638@business.example.com
+password: nwh/4dU+
+
+Personal
+email: sb-h430pz15291390@personal.example.com
+password: u8V08<aa

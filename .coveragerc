@@ -1,0 +1,20 @@
+[run]
+omit = 
+    conftest.py
+    *tests*
+    *settings.py*
+    *asgi.py*
+    *wsgi.py*
+    *manage.py*
+    *migration*
+
+[report]
+omit =
+    conftest.py
+    *tests*
+    *__init__.py*
+    *settings.py*
+    *asgi.py*
+    *wsgi.py*
+    *manage.py*
+    *migration*
